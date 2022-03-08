@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+.titleBar{
+    height: 55px;
+    background-color: #6200EE;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.title{
+    padding: 21px;
+    color: white;
+}
+
+.textView{
+    color: gray;
+}
+
+.textBox{
+    display: block;
+    margin : 0 auto;
+}
+
+.mainApp{
+    text-align: center;
+}
+
+.btn{
+    border: none;
+    margin-top: 60px;
+    background-color: #6200EE;
+    color: white;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+#text1{
+    margin-top: 20px;
+}
+
+#text2{
+    margin-top: 60px;
+    font-size: 10px;
+}
+
+#textbox1{
+    border-radius: 4px;
+    background-color: rgb(209,213,219);
+    margin-top: 40px;
+    padding: 100px;
+    outline: none;
+    border: 0px solid black;
+}
